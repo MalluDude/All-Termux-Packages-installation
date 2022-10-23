@@ -5,7 +5,8 @@
 #open new termux app ...
 
 nano malludude.sh
-
+```
+```
 termux-setup-storage -allow
 
 pkg install gitclone -y
