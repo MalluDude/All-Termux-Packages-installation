@@ -20,7 +20,7 @@ termux-setup-storage -y
 
 pkg install git -y
 
-git clone https://github.com/MalluDude/One-Click-All-Termux-Packages-installation-.git
+git clone https://github.com/MalluDude/All-Termux-Packages-installation.git
 
 cd One-Click-All-Termux-Packages-installation-
 
