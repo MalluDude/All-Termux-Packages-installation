@@ -6,7 +6,7 @@
 #Step-1
 
 ```
-#open new termux app ...
+#open terrmux app ...
 
 nano malludude.sh
 
