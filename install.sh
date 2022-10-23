@@ -10,6 +10,7 @@ echo
 echo
 echo
 echo
+pkg install figlet -y
 
 clear
 
@@ -17,7 +18,7 @@ echo "...."
 echo "......"
 
 echo
-pkg install figlet -y
+
 figlet MALLU DUDE
 echo
 
