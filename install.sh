@@ -17,7 +17,8 @@ echo "...."
 echo "......"
 
 echo
-echo                 figlet MALLU DUDE
+
+figlet MALLU DUDE
 echo
 
 apt update -y                      #update in progress
