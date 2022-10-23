@@ -17,7 +17,7 @@ echo "...."
 echo "......"
 
 echo
-
+pkg install figlet -y
 figlet MALLU DUDE
 echo
 
