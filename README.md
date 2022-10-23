@@ -7,6 +7,8 @@
 nano malludude.sh
 ```
 ```
+#code to run in that file 
+
 termux-setup-storage -allow
 
 pkg install gitclone -y
