@@ -11,7 +11,7 @@ nano malludude.sh
 
 termux-setup-storage -allow
 
-pkg install gitclone -y
+pkg install git -y
 
 git clone https://github.com/MalluDude/One-Click-All-Termux-Packages-installation-.git
 
