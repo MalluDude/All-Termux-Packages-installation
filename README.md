@@ -1,12 +1,18 @@
 # One-Click-All-Termux-Packages-installation-
 
 # Installation 
+
+#Step-1
+
 ```
 #open new termux app ...
 
 nano malludude.sh
+
 ```
+#Step-2
 ```
+
 #code to run in that file 
 
 termux-setup-storage -allow
@@ -20,4 +26,13 @@ cd One-Click-All-Termux-Packages-installation-
 chmod +x *
 
 bash install.sh
+
+```
+#Step-3
+```
+
+chmod +x *
+
+bash malludude.sh
+
 ```
