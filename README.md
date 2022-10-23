@@ -14,7 +14,7 @@ nano malludude.sh
 #Step-2
 ```
 
-#code to run in that file 
+#code .. paste it in created file 
 
 termux-setup-storage -y
 
