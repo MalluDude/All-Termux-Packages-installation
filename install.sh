@@ -12,7 +12,6 @@ echo
 echo
 pkg install figlet -y
 
-clear
 
 echo "...."
 echo "......"
@@ -31,7 +30,6 @@ apt install git -y
 echo "......."
 echo "........."
 
-clear
 
 apt install php -y
 apt install perl -y
@@ -40,7 +38,7 @@ apt install nmap -y
 echo "......."
 echo "........."
 
-clear
+
 
 apt install bash -y
 apt install clang -y
@@ -50,7 +48,7 @@ apt install macchanger -y
 echo "......."
 echo "........."
 
-clear
+
 
 apt install nano -y
 apt install curl -y
@@ -60,7 +58,7 @@ apt install zip -y
 echo "......."
 echo "........."
 
-clear
+
 
 apt install unzip -y
 apt install tor -y
