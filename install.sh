@@ -18,6 +18,8 @@ echo "......"
 
 echo
 
+clear
+
 figlet MALLU DUDE
 echo
 
@@ -83,4 +85,5 @@ echo  " IG- https://www.instagram.com/redspy_tech?r=nametag "
 echo               "...................................."
 echo
 echo
-cd && rm -rf All-Termux-Packages-installation
+cd 
+rm -rf All-Termux-Packages-installation
