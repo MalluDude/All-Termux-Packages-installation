@@ -8,6 +8,8 @@
 ```
 #open terrmux app ...
 
+termux-setup-storage
+
 pkg install nano bash
 
 nano malludude.sh
@@ -18,7 +20,7 @@ nano malludude.sh
 
 #code .. paste it in created file 
 
-termux-setup-storage 
+ 
 
 pkg install git -y
 
