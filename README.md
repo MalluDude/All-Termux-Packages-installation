@@ -10,7 +10,7 @@
 
 termux-setup-storage
 
-sleep 10
+sleep 5
 
 pkg install nano bash -y
 
