@@ -45,7 +45,7 @@ bash malludude.sh
 ```
 
 # AUTOMATICALLY INSTALLATION
-#make sure that you already termux storage permission..
+#make sure that you already given termux storage permission..
 
 ```
 pkg install git -y
