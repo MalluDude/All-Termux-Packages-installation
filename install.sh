@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bash
+
 echo $KING
 echo ""----------------------------------------------------------------------------- ""
 echo " This TOOL is CREATED by MALLU DUDE"
