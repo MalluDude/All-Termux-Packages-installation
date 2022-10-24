@@ -23,52 +23,55 @@ clear
 figlet MALLU DUDE
 echo
 
-apt update -y                      #update in progress
-apt install python -y           #installing...
-apt install python2 -y
-apt install ruby -y
-apt install git -y
+pkg update -y                      #update in progress
+pkg install python -y           #installing...
+pkg install python2 -y
+pkg install ruby -y
+pkg install git -y
 
 echo "......."
 echo "........."
 
 
-apt install php -y
-apt install perl -y
-apt install nmap -y
-
-echo "......."
-echo "........."
-
-
-
-apt install bash -y
-apt install clang -y
-apt install jq -y
-apt install macchanger -y
+pkg install php -y
+pkg install perl -y
+pkg install nmap -y
 
 echo "......."
 echo "........."
 
 
 
-apt install nano -y
-apt install curl -y
-apt install tar -y
-apt install zip -y
+pkg install bash -y
+pkg install clang -y
+pkg install jq -y
 
 echo "......."
 echo "........."
 
 
 
-apt install unzip -y
-apt install tor -y
-apt install wget -y
+pkg install nano -y
+pkg install curl -y
+pkg install tar -y
+pkg install zip -y
 
-apt install wcalc -y
-apt install openssl
-apt install bmon -y
+echo "......."
+echo "........."
+
+
+
+pkg install unzip -y
+pkg install tor -y
+pkg install wget -y
+
+pkg install wcalc -y
+pkg install openssl
+pkg install bmon -y
+
+pip install --upgrade pip
+
+pkg update -y && pkg upgrade -y 
 
 
 echo " THANK YOU FOR WAITING "
