@@ -64,6 +64,7 @@ echo "........."
 pkg install unzip -y
 pkg install tor -y
 pkg install wget -y
+pkg install neofetch -y
 
 pkg install wcalc -y
 pkg install openssl
