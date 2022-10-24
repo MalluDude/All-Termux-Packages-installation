@@ -1,4 +1,4 @@
-#In 3 Steps Install All Termux Packages 
+# In 3 Steps Install All Termux Packages 
 
 
 # Installation 
@@ -42,4 +42,19 @@ chmod +x *
 
 bash malludude.sh
 
+```
+
+# AUTOMATICALLY INSTALLATION
+#make sure that you already termux storage permission..
+
+```
+pkg install git -y
+
+git clone https://github.com/MalluDude/All-Termux-Packages-installation.git
+
+cd All-Termux-Packages-installation 
+
+chmod +x *
+
+bash install.sh
 ```
