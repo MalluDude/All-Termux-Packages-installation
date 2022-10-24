@@ -16,13 +16,13 @@ nano malludude.sh
 
 #code .. paste it in created file 
 
-termux-setup-storage -y
+termux-setup-storage 
 
 pkg install git -y
 
 git clone https://github.com/MalluDude/All-Termux-Packages-installation.git
 
-cd One-Click-All-Termux-Packages-installation-
+cd All-Termux-Packages-installation 
 
 chmod +x *
 
