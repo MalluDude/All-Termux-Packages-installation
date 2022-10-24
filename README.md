@@ -10,7 +10,7 @@
 
 termux-setup-storage
 
-pkg install nano bash
+pkg install nano bash -y
 
 nano malludude.sh
 
