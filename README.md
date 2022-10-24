@@ -5,7 +5,7 @@
 ```
 termux-setup-storage
 
-sleep 5
+sleep 2
 
 pkg update -y && pkg upgrade -y
 pkg install git -y
@@ -18,4 +18,5 @@ cd All-Termux-Packages-installation
 chmod +x *
 
 bash install.sh
+
 ```
