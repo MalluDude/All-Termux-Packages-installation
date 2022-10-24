@@ -3,7 +3,6 @@
 #make sure that you already given termux storage permission..
 
 ```
-termux-setup-storage
 
 pkg update -y && pkg upgrade -y
 pkg install git -y
