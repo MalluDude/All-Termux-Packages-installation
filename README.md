@@ -5,7 +5,7 @@
 ```
 termux-setup-storage
 
-sleep5
+sleep 5
 
 pkg install git -y
 
