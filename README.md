@@ -5,8 +5,6 @@
 ```
 termux-setup-storage
 
-sleep 2
-
 pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install bash -y
