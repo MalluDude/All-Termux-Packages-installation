@@ -8,6 +8,8 @@
 ```
 #open terrmux app ...
 
+pkg install nano bash
+
 nano malludude.sh
 
 ```
